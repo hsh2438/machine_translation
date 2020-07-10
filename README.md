@@ -10,6 +10,6 @@ http://www.aihub.or.kr/aidata/87 <br>
 data file is splited into 10 files <br>
 merge data and save as picke file <br>
 
-  python -m data.data_merge
+    python -m data.data_merge
 
 ## train
